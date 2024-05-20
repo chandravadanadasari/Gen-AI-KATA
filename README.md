@@ -1,2 +1,4 @@
-# Gen-AI-KATA
-Retail management system
+Retail Management System
+========================
+
+A Management system for a retail environment.
